@@ -10,8 +10,8 @@ HooBank, a modern and responsive landing page built using React and Tailwind CSS
 
 ## Live Project
 
-- **URL:** https://nike-c.netlify.app/
-- **Open Live Demo:** [![Open in browser](https://img.shields.io/badge/Open_in_browser-online_at_https_nike-c_netlify_app_--_svg?style=for-the-badge&logo=Netlify)](https://nike-c.netlify.app/)
+- **URL:** https://hoobank-x.netlify.app/
+- **Open Live Demo:** [![Open in browser](https://img.shields.io/badge/Open_in_browser-online_at_https_hoobank-x_netlify_app_--_svg?style=for-the-badge&logo=Netlify)](https://hoobank-x.netlify.app/)
 
 ## Key Features
 
